@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="detail">DETAIL</string>
+    <string name="avengers_intfinity_war">Avengers Intfinity War</string>
+    <string name="movie_title">Movie title</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="mission_impossible_fallout">Mission: Impossible - Fallout</string>
+</resources>
